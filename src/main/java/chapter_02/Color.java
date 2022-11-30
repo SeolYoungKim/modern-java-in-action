@@ -1,5 +1,5 @@
 package chapter_02;
 
-enum Color {
+public enum Color {
     RED, GREEN
 }
