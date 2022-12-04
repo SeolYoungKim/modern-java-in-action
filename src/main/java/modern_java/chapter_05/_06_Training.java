@@ -3,6 +3,8 @@ package modern_java.chapter_05;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
+import modern_java.Trader;
+import modern_java.Transaction;
 
 public class _06_Training {
 

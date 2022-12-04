@@ -1,6 +1,5 @@
 package modern_java;
 
-import Dish.Type;
 import java.util.List;
 import modern_java.Dish.Type;
 

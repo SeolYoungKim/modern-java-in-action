@@ -1,8 +1,10 @@
 package modern_java.chapter_05;
 
-import Dish.Type;
 import java.util.List;
 import java.util.stream.Collectors;
+import modern_java.Dish;
+import modern_java.Dish.Type;
+import modern_java.Menu;
 
 public class _02_Quiz {
 

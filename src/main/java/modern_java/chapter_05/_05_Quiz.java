@@ -1,6 +1,8 @@
 package modern_java.chapter_05;
 
 import java.util.List;
+import modern_java.Dish;
+import modern_java.Menu;
 
 public class _05_Quiz {
 

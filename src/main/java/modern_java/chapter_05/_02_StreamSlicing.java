@@ -2,6 +2,8 @@ package modern_java.chapter_05;
 
 import java.util.List;
 import java.util.stream.Collectors;
+import modern_java.Dish;
+import modern_java.Menu;
 
 /**
  * Stream의 요소를 선택하거나 스킵하는 다양한 방법

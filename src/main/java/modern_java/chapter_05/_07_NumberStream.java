@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.OptionalInt;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
+import modern_java.Dish;
+import modern_java.Menu;
 
 /**
  * Stream<T>는 sum 메서드가 없다.

@@ -2,6 +2,8 @@ package modern_java.chapter_05;
 
 import java.util.List;
 import java.util.stream.Collectors;
+import modern_java.Dish;
+import modern_java.Menu;
 
 public class _01_Filtering {
 
