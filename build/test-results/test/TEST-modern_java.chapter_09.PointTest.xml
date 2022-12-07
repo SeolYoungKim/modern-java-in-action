@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="modern_java.chapter_09.PointTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-07T13:01:42" hostname="gimseol-yeong-ui-MacBookPro.local" time="0.035">
+  <properties/>
+  <testcase name="testComparingTwoPotins()" classname="modern_java.chapter_09.PointTest" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
